@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:layout_margin="10sp"
-        android:text="CLick on the button to add"
+        android:text="Click on the button to add a note"
         android:textSize="18sp"
 
         app:layout_constraintEnd_toEndOf="parent"
