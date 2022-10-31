@@ -12,7 +12,6 @@ class AppUpdateUtil {
 // static method, can be declared outside the class
 fun appUpdateUsingGooglePlayApiLibrary(act: Activity) {
 
-    // https://www.cambotutorial.com/article/android-in-app-updates-api-flexible-and-immediate-show-update-available-dialog-inside-app
     var RC_APP_UPDATE = 999
     var mAppUpdateManager = AppUpdateManagerFactory.create(act)
     mAppUpdateManager.appUpdateInfo.addOnSuccessListener { result ->
