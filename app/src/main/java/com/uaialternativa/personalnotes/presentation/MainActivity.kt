@@ -18,7 +18,8 @@ class MainActivity : AppCompatActivity() {
         super.onResume()
 
         println("app onresume main activity ___")
-        appUpdateUsingGooglePlayApiLibrary(this)
+        //appUpdateUsingGooglePlayApiLibrary(this) // it is the same as the code below
+        AppUpdateUtil.forceAppUpdate(this)
     }
 
 }

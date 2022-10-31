@@ -6,7 +6,11 @@ import com.google.android.play.core.appupdate.AppUpdateManagerFactory
 import com.google.android.play.core.install.model.AppUpdateType
 import com.google.android.play.core.install.model.UpdateAvailability
 
-class AppUpdateUtil {
+object AppUpdateUtil {
+    @JvmStatic
+    fun forceAppUpdate(act: Activity) {
+        appUpdateUsingGooglePlayApiLibrary(act)
+    }
 }
 
 // static method, can be declared outside the class
