@@ -48,6 +48,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/307192dd4dbca88511f63c34bf5ca9e9/transformed/jetified-kotlin-stdlib-common-1.7.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f1d219582896ae2371e1c4cfd7cbeae2/transformed/jetified-annotations-13.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6b6e54a4054e7a247accbe85cc92ab9d/transformed/jetified-core-1.7.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/bf5b90a9c025f027aa43c7680903bea1/transformed/jetified-InAppUpdater-1.0.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/fd2b1aebcef7106cbbddfa8001396209/transformed/recyclerview-1.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/0977062d274e29cb8a3821a0b9e7193e/transformed/jetified-appcompat-resources-1.2.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/60859fe6536427ae9bb559248eb764a4/transformed/legacy-support-core-ui-1.0.0-api.jar</arg>
@@ -211,6 +212,7 @@
     <orderEntry type="library" name="Gradle: com.google.dagger:dagger:2.14.1" level="project" />
     <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.play:core:1.7.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.SanojPunchihewa:InAppUpdater:1.0.5@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.2.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.core:core:1.5.0-rc01@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.1@aar" level="project" />

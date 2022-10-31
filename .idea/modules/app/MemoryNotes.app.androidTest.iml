@@ -98,6 +98,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2932fc4403f1c49b0ac0db82d5e753b4/transformed/jetified-kotlin-android-extensions-runtime-1.6.0.jar</arg>
                 <arg>$MODULE_DIR$/../../../core/build/.transforms/814670ed2183e7b149574dd0aaf5592a/transformed/jetified-core.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6b6e54a4054e7a247accbe85cc92ab9d/transformed/jetified-core-1.7.3-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/bf5b90a9c025f027aa43c7680903bea1/transformed/jetified-InAppUpdater-1.0.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/0a847fcf33115a9f595f55d786f16ee1/transformed/jetified-kotlinx-coroutines-android-1.5.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5f7dd607c4e976137547fce3d9fe5ad3/transformed/jetified-kotlinx-coroutines-core-jvm-1.5.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b4cf331a29f0b58ace26fad44f62e32e/transformed/jetified-kotlin-stdlib-jdk8-1.5.30.jar</arg>
@@ -229,6 +230,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.play:core:1.7.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.SanojPunchihewa:InAppUpdater:1.0.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.5.0-rc01@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.1@aar" level="project" />
