@@ -1,9 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.dagger:dagger-android:2.14.1@aar">
+  <library name="Gradle: com.google.dagger:dagger-android:2.14.1@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bc9db7357d2785b3cefa293f03e45622/transformed/jetified-dagger-android-2.14.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc9db7357d2785b3cefa293f03e45622/transformed/jetified-dagger-android-2.14.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bc9db7357d2785b3cefa293f03e45622/transformed/jetified-dagger-android-2.14.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f3503ac00c9e6c49f1716e6ac27d8579/transformed/jetified-dagger-android-2.14.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f3503ac00c9e6c49f1716e6ac27d8579/transformed/jetified-dagger-android-2.14.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android/2.14.1/adcfcd1be39f87367f94fe668ecfc0f23528ab11/dagger-android-2.14.1-javadoc.jar!/" />
